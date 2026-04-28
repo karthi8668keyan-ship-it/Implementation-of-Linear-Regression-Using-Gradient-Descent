@@ -15,11 +15,9 @@ To write a program to predict the profit of a city using the linear regression m
 5.Make predictions on new data by transforming it using the same scaling and encoding applied to the training data.
 ## Program:
 ```
-/*
 Program to implement the linear regression using gradient descent.
 Developed by: KARTHIKEYAN A
 RegisterNumber:  212225230131
-*/
 ```
 ```
 import numpy as np
